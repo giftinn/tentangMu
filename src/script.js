@@ -386,7 +386,7 @@ function checkStation(){
 function togglePlay(){
 const btn=document.getElementById("playBtn");
 if(audio.paused){
-audio.src="src/s.mp3";
+audio.src="src/song.mp3";
 audio.play();
 btn.textContent="⏸";
 }else{
