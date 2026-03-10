@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpg">
+<img class="cover" src="src/pict.PNG">
 <div class="songInfo">
-<div>Kita Usahakan Rumah Itu</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sal Priadi</div>
+<div>Monolog</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Pamungkas</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,21 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/6.jpg" class="filmPic">
+<img src="src/1.PNG" class="filmPic">
+<img src="src/2.PNG" class="filmPic">
+<img src="src/3.PNG" class="filmPic">
+<img src="src/4.PNG" class="filmPic">
+<img src="src/5.PNG" class="filmPic">
+<img src="src/6.PNG" class="filmPic">
+<img src="src/7.PNG" class="filmPic">
+<img src="src/8.PNG" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/6.jpg" class="filmPic">
+<img src="src/9.PNG" class="filmPic">
+<img src="src/10.PNG" class="filmPic">
+<img src="src/11.PNG" class="filmPic">
+<img src="src/12.PNG" class="filmPic">
+<img src="src/13.PNG" class="filmPic">
+<img src="src/14.PNG" class="filmPic">
 
 </div>
 </div>
@@ -109,14 +111,23 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-Happy one month, my love. It hasn’t been that long, but somehow being with you already feels so familiar and special at the same time. The little things we share, the random talks, the way we keep choosing each other every day, they mean more to me than you probably realize.
+Beberapa hal hadir dengan cara paling tenang
+seperti laut yang selalu kembali memeluk garis pantainya,
+atau senja yang selalu menemukan rumahnya di langit yang sama.
 
-I’m really grateful that our paths crossed and that I get to experience this with you. Being with you feels calm, like I’ve found a place where my heart can rest without trying too hard.
+Perasaanku padamu berjalan layaknya fenomena itu.
+pelan, tenang, tapi selalu tahu arah pulangnya.
 
-Let’s keep going like this, slowly and sincerely. Growing together, learning each other more, and holding on even on the ordinary days. I hope no matter where life takes us, we’ll keep finding our way back to each other.
+Di antara banyak nama yang singgah dalam hidupku,
+entah bagaimana langkahnya terhenti
+tepat di hadapanmu, seolah semesta memberi tanda kecil
+bahwa ada cerita yang layak dijaga lebih lama.
 
-I wouldn’t trade this for anything, I love you. <br>
+Jadi, biar tulisan ini menjadi penanda kecil hari ini
+sebuah catatan sunyi yang kutinggalkan yang berjudul : "tentang seseorang yang memilihmu."
 
+Dariku, Untukmu.
+10 Maret 2026. <br>
 
 <span class="signal">END SIGNAL</span>
 
